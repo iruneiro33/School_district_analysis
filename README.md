@@ -42,8 +42,7 @@ Tghe overall passing rate fell to 65%
   
   ![By_size](https://user-images.githubusercontent.com/7553779/188348556-9fad708c-a738-453c-a837-fd2f40ab7409.png)
 
-  
-     * Analysis by Type
+  * Analysis by Type
      
   Finally, THS is a Charter School. Again we see the same behavior as before, going from over-performing to under-performing according to the benchmark by type of school. Howerver, on the overall passing percentage THS still has a greater result. This would be interesting to see, probably in this category there are over-performers or most of the bottom schools are Chartered. 
 
