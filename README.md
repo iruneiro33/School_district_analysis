@@ -48,3 +48,7 @@ Tghe overall passing rate fell to 65%
   Finally, THS is a Charter School. Again we see the same behavior as before, going from over-performing to under-performing according to the benchmark by type of school. Howerver, on the overall passing percentage THS still has a greater result. This would be interesting to see, probably in this category there are over-performers or most of the bottom schools are Chartered. 
 
 ![By_type](https://user-images.githubusercontent.com/7553779/188348594-0f1bd9b8-a58b-436b-bf1d-a75a4f9ab419.png)
+
+## Summary
+
+The Thomas High School was affected by the changed made to the analysis of the data. THS went from being one of the top performers schools in the district to under-perform in the benchmark comparisons with other schools in math, reading and overall pasiing percentages. By replacing the 9th grades by NaN and not considered in the analysis of the performance of the School in math, reading and overall decreased. 
