@@ -38,6 +38,7 @@ Tghe overall passing rate fell to 65%
   ![Spending_result_chart](https://user-images.githubusercontent.com/7553779/188347003-a1e667ed-580a-4f2b-8341-b89e2814a8b2.png)
   
    * Analysis by Size
+   
   THS is considered a medium size school based on the number of student. The next chart shoes the performance of the school by size. Similarly, as the previous comparison, we observe that after the removal of the 9th graders, THS undeperforms in math and reading when compared to schoools of the similar size. Interesting enough, the middle size schools are the ones with the best performance of % passing in math, reading and overall.
   
   ![By_size](https://user-images.githubusercontent.com/7553779/188348556-9fad708c-a738-453c-a837-fd2f40ab7409.png)
